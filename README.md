@@ -1,43 +1,39 @@
-## Hi there 👋
-# 👋 Hi, I'm Osama El Naggar
+## Hi there 👋  
+# 👋 I'm Osama El Naggar
 
-🚀 Data Management & GIS Coordinator with 17+ years in the oil & gas sector, bridging domain expertise with modern data science.
+🚀 Data Management & GIS Coordinator with 17+ years in the oil & gas sector, bridging domain expertise with modern data science and engineering practices.
 
-🧠 I recently earned a **Data Science Diploma from GUC**, with hands-on projects in:
-- 🧪 Machine Learning (KNN, Decision Tree, Clustering)
-- ⚙️ Data Engineering (Airflow, Docker, PostgreSQL)
-- 💡 Big Data (PySpark, HDFS)
-- Advanced Methods in ML (FFNN - CNN - RNN)
-- Cloud computing
-- Capeston Project (Airflow, Docker, PostgreSQL, FFNN)
+🧠 I recently earned a **Data Science Diploma from GUC**, with hands-on experience in:
+- 🧪 Machine Learning: KNN, Decision Tree, Clustering
+- ⚙️ Data Engineering: Apache Airflow, Docker, PostgreSQL
+- 💡 Big Data: PySpark, HDFS
+- 🤖 Deep Learning: FFNN, CNN, RNN
+- ☁️ Cloud Computing: Data pipelines and distributed processing
+- 🎓 Capstone: ETL pipeline + FFNN (Fintech & Cybersecurity use cases)
 
-💼 Key Skills:
-Python • Power BI • SQL • GIS • Petrel • OFM • Tech-Log • Apache Airflow • Docker • Superset • PySpark
+💼 **Key Skills**  
+Python • Power BI • SQL • GIS • Petrel • OFM • Tech-Log  
+Apache Airflow • Docker • Superset • PySpark • Deep Learning
 
-📊 I focus on automating workflows, managing subsurface data, and delivering analytics solutions that drive decisions.
+📊 I specialize in:
+- Automating workflows
+- Managing and analyzing subsurface and geospatial data
+- Building end-to-end analytics pipelines
+- Delivering insight-driven dashboards and predictive models
+
+---
 
 ### 📌 Featured Projects
-- **FinTech ETL Pipeline** – Airflow + Docker + PostgreSQL + python
-- **NYC Taxi Analytics** – Airflow + Docker + PostgreSQL + python
-- **Heart Disease ML Model** – KNN, Decision Tree, Logistic Regression
-- **Big Data E-Commerce** – PySpark + HDFS
-- **Deep Learning Customer Churn** – FFNN - SVM - Logistic Regression / **Cyber Security Threats** - FFNN
+- 🔧 **FinTech ETL Pipeline** – Airflow, Docker, PostgreSQL, Python
+- 🗽 **NYC Taxi Analytics** – Geospatial trends via Airflow, PostgreSQL, Python
+- ❤️ **Heart Disease Prediction** – KNN, Decision Tree, Logistic Regression
+- 🛍️ **E-Commerce Analytics** – PySpark + HDFS big data processing
+- 🧠 **Deep Learning Projects** –  
+  ‣ Customer Churn Prediction (FFNN, SVM)  
+  ‣ Cybersecurity Threat Classification (FFNN)
+
+---
 
 ### 📫 Connect With Me
-- LinkedIn: [osama-el-naggar](https://www.linkedin.com/in/osama-el-naggar)
-- Email: osamaelnaggar94@gmail.com
-
-<!--
-**Osamaelnaggar/Osamaelnaggar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 [LinkedIn](https://www.linkedin.com/in/osama-el-naggar)
+- 📧 osamaelnaggar94@gmail.com
