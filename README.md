@@ -1,4 +1,27 @@
 ## Hi there 👋
+# 👋 Hi, I'm Osama El Naggar
+
+🚀 Data Management & GIS Coordinator with 17+ years in the oil & gas sector, bridging domain expertise with modern data science.
+
+🧠 I recently earned a **Data Science Diploma from GUC**, with hands-on projects in:
+- 🧪 Machine Learning (KNN, Decision Tree, Clustering)
+- ⚙️ Data Engineering (Airflow, Docker, PostgreSQL)
+- 💡 Big Data (PySpark, HDFS)
+
+💼 Key Skills:
+Python • Power BI • SQL • GIS • Petrel • OFM • Tech-Log • Apache Airflow • Docker • Superset • PySpark
+
+📊 I focus on automating workflows, managing subsurface data, and delivering analytics solutions that drive decisions.
+
+### 📌 Featured Projects
+- **FinTech ETL Pipeline** – Airflow + Docker + PostgreSQL
+- **NYC Taxi Analytics** – Python, Folium, Seaborn
+- **Heart Disease ML Model** – KNN, Decision Tree, Logistic Regression
+- **Big Data E-Commerce** – PySpark + HDFS
+
+### 📫 Connect With Me
+- LinkedIn: [osama-el-naggar](https://www.linkedin.com/in/osama-el-naggar)
+- Email: osamaelnaggar94@gmail.com
 
 <!--
 **Osamaelnaggar/Osamaelnaggar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
