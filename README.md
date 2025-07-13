@@ -7,6 +7,9 @@
 - 🧪 Machine Learning (KNN, Decision Tree, Clustering)
 - ⚙️ Data Engineering (Airflow, Docker, PostgreSQL)
 - 💡 Big Data (PySpark, HDFS)
+- Advanced Methods in ML (FFNN - CNN - RNN)
+- Cloud computing
+- Capeston Project (Airflow, Docker, PostgreSQL, FFNN)
 
 💼 Key Skills:
 Python • Power BI • SQL • GIS • Petrel • OFM • Tech-Log • Apache Airflow • Docker • Superset • PySpark
