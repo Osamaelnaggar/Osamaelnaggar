@@ -35,5 +35,5 @@ Apache Airflow • Docker • Superset • PySpark • Deep Learning
 ---
 
 ### 📫 Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/osama-el-naggar)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/osama-el-naggar-3954291a/)
 - 📧 osamaelnaggar94@gmail.com
