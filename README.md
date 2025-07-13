@@ -14,10 +14,11 @@ Python • Power BI • SQL • GIS • Petrel • OFM • Tech-Log • Apache A
 📊 I focus on automating workflows, managing subsurface data, and delivering analytics solutions that drive decisions.
 
 ### 📌 Featured Projects
-- **FinTech ETL Pipeline** – Airflow + Docker + PostgreSQL
-- **NYC Taxi Analytics** – Python, Folium, Seaborn
+- **FinTech ETL Pipeline** – Airflow + Docker + PostgreSQL + python
+- **NYC Taxi Analytics** – Airflow + Docker + PostgreSQL + python
 - **Heart Disease ML Model** – KNN, Decision Tree, Logistic Regression
 - **Big Data E-Commerce** – PySpark + HDFS
+- **Deep Learning Customer Churn** – FFNN - SVM - Logistic Regression / **Cyber Security Threats** - FFNN
 
 ### 📫 Connect With Me
 - LinkedIn: [osama-el-naggar](https://www.linkedin.com/in/osama-el-naggar)
